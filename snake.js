@@ -265,7 +265,7 @@ var newGame = function(){
 	///////////////////////////////////////////////////////////////
 	var x = 260;
 	var y = 240;
-	var snakeSpeed = 300;
+	var snakeSpeed = 210;
 
 	var temp = setSnake(3, x, y);
 
