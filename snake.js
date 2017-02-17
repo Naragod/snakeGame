@@ -208,6 +208,8 @@ var setSnake = function(length, x, y){
 	//Draws the snake for the first time
 	for(var i = 1; i < length; i++){
 		var id = makeBlock(x - (i * 20), y);
+		//Change background color of the snake body.
+		$("#" + id).css('background-color', '#00FFC2');
 		//Stores block ID and block Position
 		blockIds.push(id);
 		prevL.push(getPos(id));
