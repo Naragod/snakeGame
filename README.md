@@ -1,6 +1,4 @@
-# snakeGame
-Javascript Snake Game
+# Javascript snakeGame
 
-
-# Game 
+# Play it at: 
 http://individual.utoronto.ca/mateon/snake/snake.html
