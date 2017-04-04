@@ -2,5 +2,5 @@
 Javascript Snake Game
 
 
-#Game 
+# Game 
 http://individual.utoronto.ca/mateon/snake/snake.html
